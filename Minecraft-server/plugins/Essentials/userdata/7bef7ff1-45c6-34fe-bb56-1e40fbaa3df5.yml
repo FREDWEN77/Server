@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709869040100
+  login: 1709868460379
+money: '0'
+last-account-name: GoFroontt
+lastlocation:
+  world: 86916cb0-2515-4b2d-9303-48694b37c574
+  world-name: world
+  x: -129.69999998807907
+  y: 147.0
+  z: 104.1875098145428
+  yaw: 24.05999755859375
+  pitch: 47.424598693847656
+logoutlocation:
+  world: 86916cb0-2515-4b2d-9303-48694b37c574
+  world-name: world
+  x: -238.53639032247878
+  y: 85.0
+  z: 79.32002090088882
+  yaw: -21.318359375
+  pitch: 41.86998748779297
